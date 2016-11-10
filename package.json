@@ -1,0 +1,22 @@
+{
+  "name": "seats",
+  "version": "1.0.0",
+  "description": "### jQuery Seat Charts (JSC) is a full-blown seat map library. It will generate an accessible map, legend, handle mouse & keyboard events and finally give you powerful selectors to control your map.",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateuszmarkowski/jQuery-Seat-Charts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateuszmarkowski/jQuery-Seat-Charts/issues"
+  },
+  "homepage": "https://github.com/mateuszmarkowski/jQuery-Seat-Charts#readme"
+}
